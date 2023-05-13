@@ -20,9 +20,10 @@ I've been coding for 5 years (mostly playing with Android and Flutter). It's an 
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="36" height="36" alt="Android" /></a>
  
 </p>
+
 ### Socials
                   
-<p align="left"> <a href="https://www.github.com/TinhHuynh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tinh-huynh-huỳnh-tịnh-39a37b146" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/6324345/tinh-huynh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+</a> <a href="https://www.linkedin.com/in/tinh-huynh-huỳnh-tịnh-39a37b146" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/6324345/tinh-huynh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
