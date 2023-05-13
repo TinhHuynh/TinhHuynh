@@ -9,8 +9,9 @@ I've been coding for 5 years (mostly playing with Android and Flutter). It's an 
 *   🌍  I'm based in Ho Chi Minh City
 *   ✉️  You can contact me at [tinhhuynh.dev@gmail.com](mailto:tinhhuynh.dev@gmail.com)
 *   🧠  I'm learning Flutter
-*   ⚡  In free time, I read tech blogposts, join tech events, build side projects or contribute into open-source projects.<a href="https://www.github.com/TinhHuynh" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/TinhHuynh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   ⚡  In free time, I read tech blogposts, join tech events, build side projects or contribute into open-source projects.
+
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
