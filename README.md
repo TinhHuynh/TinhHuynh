@@ -15,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter: InheritedWidget và InheritedModel](https://www.tinhhuynh.dev//flutter/programming/inherited-widget-model/)
+- [Flutter 3.10: Sử dụng MediaQuery 1 cách hiệu quả](https://www.tinhhuynh.dev//flutter/programming/media-query-xxx-of/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
