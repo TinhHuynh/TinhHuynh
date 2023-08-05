@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tinhhuynh.dev@gmail.com**
 
-- ⚡ Fun fact **I think I will become a monk someday.**
+- ⚡ Fun fact **Besides programming, I run marathon, meditate, play video games and read books.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,7 +24,6 @@
 <a href="https://linkedin.com/in/tinh-huynh-39a37b146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinh-huynh-39a37b146" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6324345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6324345" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tinhhuynh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tinhhuynh" height="30" width="40" /></a>
-<a href="/https://www.tinhhuynh.dev/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tinhhuynh.dev/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
