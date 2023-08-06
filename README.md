@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Jekyll**
 
-- 📝 I regularly write articles on [https://www.tinhhuynh.dev](https://www.tinhhuynh.dev)
+- 📝 I regularly write articles on [tinhhuynh.dev](https://www.tinhhuynh.dev)
 
 - 💬 Ask me about **Flutter, Android**
 
