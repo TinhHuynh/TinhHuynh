@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Flutter, Android**
 
-- 📫 How to reach me **tinhhuynh.dev@gmail.com**
+- 📫 How to reach me: **tinhhuynh.dev@gmail.com**
 
-- ⚡ Fun fact **Besides programming, I jog, meditate, play video games, and read books.**
+- ⚡ Fun fact: **Besides programming, I jog, meditate, play video games, and read books.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
