@@ -20,6 +20,7 @@
 - [Flutter 3.10: Sử dụng MediaQuery 1 cách hiệu quả](https://www.tinhhuynh.dev//flutter/programming/media-query-xxx-of/)
 <!-- BLOG-POST-LIST:END -->
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tinh-huynh-39a37b146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinh-huynh-39a37b146" height="30" width="40" /></a>
@@ -28,13 +29,14 @@
 </p>
 
 
-
+<h3 align="left">Gihub stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinhhuynh&show_icons=true&locale=en&layout=compact" alt="tinhhuynh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinhhuynh&show_icons=true&locale=en" alt="tinhhuynh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinhhuynh&" alt="tinhhuynh" /></p>
 
+<h3 align="left">Gihub achievements:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinhhuynh" alt="tinhhuynh" /></a> </p>
 
 
