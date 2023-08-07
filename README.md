@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tinh Huynh</h1>
 <h3 align="center">Flutter/Android developer</h3>
 
+- 🔭 I’m currently working on **my blog, open-source projects**
+
 - 🌱 I’m currently learning **Flutter, Jekyll**
 
 - 📝 I regularly write articles on [tinhhuynh.dev](https://www.tinhhuynh.dev)
