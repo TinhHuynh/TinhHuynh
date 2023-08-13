@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my blog, open-source projects**
 
-- 🌱 I’m currently learning **Flutter, Jekyll**
+- 🌱 I’m currently learning **Flutter, Jekyll, Python**
 
 - 📝 I regularly write articles on [tinhhuynh.dev](https://www.tinhhuynh.dev)
 
