@@ -28,8 +28,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter: InheritedWidget và InheritedModel](https://www.tinhhuynh.dev//flutter/programming/inherited-widget-model/)
-- [Flutter 3.10: Sử dụng MediaQuery 1 cách hiệu quả](https://www.tinhhuynh.dev//flutter/programming/media-query-xxx-of/)
+- [Flutter 3.13: làm Sticky Header dễ dàng với SliverMainAxisGroup](https://www.tinhhuynh.dev//programming/flutter/group-main-axis-sliver/)
+- [Flutter: InheritedWidget và InheritedModel](https://www.tinhhuynh.dev//programming/flutter/inherited-widget-model/)
+- [Flutter 3.10: Sử dụng MediaQuery 1 cách hiệu quả](https://www.tinhhuynh.dev//programming/flutter/media-query-xxx-of/)
 <!-- BLOG-POST-LIST:END -->
 
 
