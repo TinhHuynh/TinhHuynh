@@ -28,6 +28,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Test: Generate html từ file lcov.ico ở Windows &lpar;chạy được trên Android Studio/VS Code terminal&rpar;](https://www.tinhhuynh.dev//programming/flutter/flutter-test-coverage-windows/)
 - [Flutter 3.13: làm Sticky Header dễ dàng với SliverMainAxisGroup](https://www.tinhhuynh.dev//programming/flutter/group-main-axis-sliver/)
 - [Flutter: InheritedWidget và InheritedModel](https://www.tinhhuynh.dev//programming/flutter/inherited-widget-model/)
 - [Flutter 3.10: Sử dụng MediaQuery 1 cách hiệu quả](https://www.tinhhuynh.dev//programming/flutter/media-query-xxx-of/)
